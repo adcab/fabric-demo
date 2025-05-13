@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "DP600_DAY1LH"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c57b78b5-f2fa-91fa-434d-38d31d09a71c"
+  }
+}
